@@ -1,0 +1,13 @@
+C:\Users\dimol\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\dimol\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\dimol\source\repos\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.startForm.resources
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.Form2.resources
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.Form3.resources
+C:\Users\dimol\source\repos\DiceGame\DiceGame\obj\Debug\DiceGame.Form4.resources
